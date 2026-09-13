@@ -1,0 +1,19 @@
+# Java / Spring Boot
+backend/target/
+backend/.mvn/
+backend/*.iml
+backend/.idea/
+
+# React / Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Environment secrets
+*.env
+application-local.yml
+application-secrets.properties
+
+# OS files
+.DS_Store
+Thumbs.db
